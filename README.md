@@ -46,7 +46,7 @@ I’m a passionate Full Stack Developer who enjoys learning and building dynamic
   <a href="https://www.facebook.com/tasnim.hasan.iqbal" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://github.com/iqbalxrr/iqbalxrr" target="_blank">
+  <a href="https://github.com/iqbalxrr?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
