@@ -53,7 +53,7 @@ I’m a passionate Full Stack Developer who enjoys learning and building dynamic
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iqbalxrr&theme=algolia&margin-w=10&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iqbalxrr&theme=algolia&margin-w=10&row=1&column=8" />
 </p>
 
 ---
