@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/rgr1rfC/Gemini-Generated-Image-8yjsqf8yjsqf8yjs.png" alt="Banner" />
+  ![Banner](https://i.ibb.co/rgr1rfC/Gemini-Generated-Image-8yjsqf8yjsqf8yjs.png)
 </p>
-
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm Iqbal Hasan 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
