@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/rgr1rfC/Gemini-Generated-Image-8yjsqf8yjsqf8yjs.png" alt="Banner" />
+  <img src="[https://i.ibb.co/rgr1rfC/Gemini-Generated-Image-8yjsqf8yjsqf8yjs.png](https://i.ibb.co/rgr1rfC/Gemini-Generated-Image-8yjsqf8yjsqf8yjs.png)" alt="Banner" />
 </p>
 
 <!-- Name and Designation -->
