@@ -1,6 +1,10 @@
 <!-- Banner -->
 
 
+<p align="center">
+ <img src="/images/Gemini_Generated_Image_8yjsqf8yjsqf8yjs.png">
+</p>
+
 
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm Iqbal Hasan 👋</h1>
