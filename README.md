@@ -52,13 +52,16 @@ I’m a passionate Full Stack Developer who enjoys learning and building dynamic
 
 ## 📊 GitHub Stats
 
-<p align="center">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalxrr&show_icons=true&locale=en&layout=compact" alt="iqbalxrr" /></p>
+<div align="center">
+  <!-- Top Languages -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalxrr&layout=compact&theme=tokyonight&langs_count=8" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalxrr&show_icons=true&locale=en" alt="iqbalxrr" /></p>
+  <!-- GitHub Stats -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iqbalxrr&show_icons=true&theme=tokyonight" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalxrr&" alt="iqbalxrr" /></p>
-</p>
+  <!-- GitHub Streak -->
+
+</div>
 
 ---
 ## 🏆 GitHub Achievements
