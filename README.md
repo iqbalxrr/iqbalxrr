@@ -37,7 +37,7 @@ I’m a passionate Full Stack Developer who enjoys learning and building dynamic
   <a href="mailto:iqbal.hasan.webdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/iqbal-hasan">
+  <a href="[https://www.linkedin.com/in/iqbal-hasan](https://www.linkedin.com/in/iqbal-hasan-91a1a5365)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourprofile">
