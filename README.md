@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  ![Banner](https://i.ibb.co/rgr1rfC/Gemini-Generated-Image-8yjsqf8yjsqf8yjs.png)
+  <img src="https://i.ibb.co/rgr1rfC/Gemini-Generated-Image-8yjsqf8yjsqf8yjs.png" alt="Banner" width="100%" />
 </p>
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm Iqbal Hasan 👋</h1>
