@@ -1,3 +1,56 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+</p>
+
+<!-- Name and Designation -->
+<h1 align="center">Hi, I'm Iqbal Hasan 👋</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
+
+---
+
+## 🧑‍💻 About Me
+
+I’m a passionate Full Stack Developer who enjoys learning and building dynamic web applications. I love solving real-world problems using clean and scalable code.
+
+- 🔭 Currently working on: a **Tourism Web App**
+- 🌱 Exploring: **Next.js** and **TypeScript**
+- 🛠️ Open to freelance or collaborative projects
+- 💬 Ask me about: React, Node.js, MongoDB, Firebase
+
+---
+
+## 🚀 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,firebase" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=your-username&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+</p>
+
+---
+
+
+
 <h1 align="center">Hi 👋, I'm IQBAL HASAN</h1>
 <h3 align="center">A passionate fullStoke web developer</h3>
 
