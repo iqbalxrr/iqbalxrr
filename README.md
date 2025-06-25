@@ -42,9 +42,11 @@ I’m a passionate Full Stack Developer who enjoys learning and building dynamic
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalxrr&show_icons=true&locale=en&layout=compact" alt="iqbalxrr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalxrr&show_icons=true&locale=en" alt="iqbalxrr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalxrr&" alt="iqbalxrr" /></p>
 </p>
 
 ---
